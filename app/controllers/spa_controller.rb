@@ -4,4 +4,7 @@ class SpaController < ApplicationController
 
   def index
   end
+
+  def kitchen
+  end
 end
